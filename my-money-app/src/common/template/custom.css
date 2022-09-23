@@ -1,0 +1,21 @@
+@import "~admin-lte/plugins/fontawesome-free/css/all.min.css";
+@import "~admin-lte/plugins/icheck-bootstrap/icheck-bootstrap.min.css";
+@import "~admin-lte/dist/css/adminlte.min.css";
+
+/* #root {
+    width: 100vw;
+    height: 100vw;
+}
+
+.main-header .navbar-nav .nav-item .nav-link {
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.main-footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+} */
